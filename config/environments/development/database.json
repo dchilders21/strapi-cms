@@ -1,0 +1,17 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-bookshelf",
+      "settings": {
+        "client": "postgres",
+        "database": "strapi",
+        "host": "strapi-database.cshue7f7xhem.us-west-1.rds.amazonaws.com",
+        "port": "5432",
+        "username": "postgres",
+        "password": "5WG3HL&i"
+      },
+      "options": {}
+    }
+  }
+}
